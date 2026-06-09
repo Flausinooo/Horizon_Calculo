@@ -61,7 +61,7 @@ Não é necessário instalar ou importar nenhuma biblioteca.
 Basta ter o Python instalado. No terminal, dentro da pasta do projeto, execute:
 
 ```bash
-python Horizon.py
+python Horizon_GS.py
 ```
 
 ## Observação
